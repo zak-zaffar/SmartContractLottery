@@ -1,0 +1,8 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.8.0+commit.c7dfd78e",
+    "solidity.remappings": [
+          "@chainlink/=/Users/zak/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.2.1",
+          "@openzeppelin/=/Users/zak/.brownie/packages/OpenZeppelin/openzeppelin-contracts@3.4.0"
+        ]
+      
+}
